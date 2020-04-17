@@ -1,0 +1,26 @@
+{
+  "name": "blinkenlights",
+  "version": "1.0.0",
+  "description": "Blinkenlights Lorem Ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/blinkenlights.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/blinkenlights/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/blinkenlights#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "ava": "^3.7.0"
+  }
+}
