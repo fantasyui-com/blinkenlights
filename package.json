@@ -4,6 +4,7 @@
   "description": "Blinkenlights Lorem Ipsum",
   "main": "index.js",
   "scripts": {
+    "pub": "git add .; git commit -m \"New Release\"; npm version patch; git push; npm publish;",
     "test": "ava"
   },
   "repository": {
