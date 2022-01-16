@@ -1,6 +1,6 @@
 {
   "name": "blinkenlights",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Blinkenlights Lorem Ipsum",
   "main": "index.js",
   "scripts": {
